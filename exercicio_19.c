@@ -1,0 +1,2 @@
+/*Nesse exercicio, foi pedido que o usuario inserisse dois numeros reais e o resultado da multiplicação teria que ser
+obrigatoriamente inteiro. Esse algoritmo necessita da biblioteca <math.h> e a função fmod, que ainda não foi ensinado. */
